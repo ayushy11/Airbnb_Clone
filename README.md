@@ -12,7 +12,8 @@ Hosting URL: https://airbnb-clone-9ddf7.web.app/
 
 ### Search Page
 
-![alt text](https://github.com/ayushy11/Airbnb-Clone/blob/master/search.png)
+![alt text](https://github.com/ayushy11/Airbnb-Clone/blob/master/search1.png)
+![alt text](https://github.com/ayushy11/Airbnb-Clone/blob/master/search2.png)
 
 ## Installation and Setup Instructions
 
