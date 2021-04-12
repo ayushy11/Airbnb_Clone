@@ -1,4 +1,4 @@
-## Spotify React Clone
+## Airbnb React Clone
 
 This app is a demo replica of Airbnb.
 
